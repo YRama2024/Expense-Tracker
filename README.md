@@ -1,5 +1,4 @@
 # Expense tracker
--
 - can Sign-in using google accounts.
 -> adding transaction :
 - income 
